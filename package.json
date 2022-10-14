@@ -2,6 +2,7 @@
   "name": "twilio",
   "version": "1.0.0",
   "description": "twilio send sms",
+  "type": "module",
   "scripts": {
     "start": "babel-node src/bin/www.js",
     "dev": "babel-watch src/bin/www.js",
